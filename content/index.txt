@@ -1,9 +1,0 @@
-{
-	"data" : [
-		{
-			"name" : "入门-练习",
-			"file" : "exercise_level0.json"
-		}
-	]
-}
-	
